@@ -1,0 +1,15 @@
+extend: {
+    colors : [
+        hoverColor: "#FFC000",
+        brightColor: "#ddB036",
+        backgroundColor: "#36ae9a",
+    ],
+},
+
+
+**react skill ( carrossel)
+ 
+npm install react-slick --save
+
+npm install slick-carousel
+
