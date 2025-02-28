@@ -1,11 +1,11 @@
 import React from 'react'
 import Button from '../layouts/Button'
-import homeImg from '../assets/img/home.png'
+import homeImg from '../assets/img/balcao.jpg'
 
 
 const Home = () => {
   return (
-    <div style={{ backgroundImage: `url(${homeImg})` }}  className='min-h-screen flex flex-col justify-center lg:px-32 px-5 text-white  bg-no-repeat bg-cover opacity-90'>
+    <div style={{ backgroundImage: `url(${homeImg})` }}  className='min-h-screen flex flex-col justify-center lg:px-32 px-5 text-[#00000090]  bg-no-repeat bg-cover opacity-90'>
         <div className='w-full lg:w4/5 space-y-5 mt-10'>
             <h1 className='text-5xl font-bold leading-tight '>
             Capacitando escolhas de saúde para uma vida.
